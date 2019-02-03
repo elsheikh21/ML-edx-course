@@ -1,0 +1,5 @@
+sklearn==0.20.1
+pandas==0.23.4
+matplotlib==3.0.2
+itertools
+pydotplus==2.0.2
